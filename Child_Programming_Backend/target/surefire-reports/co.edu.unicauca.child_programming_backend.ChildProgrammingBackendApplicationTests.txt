@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: co.edu.unicauca.child_programming_backend.ChildProgrammingBackendApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.600 s -- in co.edu.unicauca.child_programming_backend.ChildProgrammingBackendApplicationTests
