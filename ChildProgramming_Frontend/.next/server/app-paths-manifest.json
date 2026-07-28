@@ -1,0 +1,5 @@
+{
+  "/api/activities/list/route": "app/api/activities/list/route.js",
+  "/page": "app/page.js",
+  "/activities/list/page": "app/activities/list/page.js"
+}
